@@ -1,93 +1,77 @@
-# ![Banner](https://media.licdn.com/dms/image/v2/D5616AQGxDPluGocHWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736174857503?e=1741824000&v=beta&t=YPRUyrjo75UBbTLeftjgWz1cc37hjxbWvUTPKrvaKC8)  
-**Sharath H N**  
+# Sharath H N  
 
-**Contact**:  
-📞 7204022677 | ✉️ [sharathchinnu.hn@gmail.com](mailto:sharathchinnu.hn@gmail.com) | 🌍 Doddaballapur, India 561203  
-
-## 👨‍💻 About Me  
-I am a passionate and knowledgeable **Computer Science and Engineering** student with a focus on quick learning and teamwork. I have a proven history of delivering successful projects by leveraging leadership, communication, and problem-solving skills. I am highly motivated to apply my academic background and project experience in real-world job roles. I am driven to continue developing my skills and learning throughout my career.
+📞 **+91 7204022677** | ✉️ **sharathchinnu.hn@gmail.com**  
+🌐 **Doddaballapur, India** | 💻 **[GitHub](https://github.com/Sharath196266)** | 🔗 **[LinkedIn](https://www.linkedin.com/in/sharath7hn)**  
 
 ---
 
-## 🔧 Skills  
-- **Programming Languages**:  
-  - 🖥️ C, C++, Java, Python (basic)  
-- **Web Development**:  
-  - 🌐 HTML, CSS, JavaScript, React  
-- **Database Management**:  
-  - 🗃️ SQL  
-- **Soft Skills**:  
-  - 📊 Data Structures and Algorithms (DSA)  
-  - 🧠 Analytical Thinking, Problem-Solving, Time Management, Communication  
-- **Tools**:  
-   - 🔄 Version Control: Git, GitHub  
-   - 🖥️ Unix  
-- **Other Skills**:  
-  - ➗ Strong mathematical skills, Teamwork  
+## 👨‍💻 **About Me**  
+Aspiring **Software Developer** with a passion for building scalable, user-centric applications. Skilled in **full-stack web development**, **problem-solving**, and **collaborative teamwork**. I thrive in fast-paced environments and constantly seek opportunities to learn, innovate, and contribute to impactful projects.
 
 ---
 
-## 💼 Experience  
-### Internships/Projects:  
-- **[KrushiBook](https://Sharath196266.github.io/KrushiBook)**  
-  Developed an intuitive platform providing farmers with agricultural information and resources. The project bridges the gap between farmers and modern agricultural practices by providing easy access to crop details, weather updates, and market trends.  
-  Key Features:  
-  - 👩‍🌾 User-friendly interface for farmers to navigate and access vital information  
-  - 🌦️ Real-time weather updates and market price tracking  
-  - 📚 Educational resources to improve farming practices  
-  - 💻 Built using web technologies like HTML, CSS, and JavaScript for accessibility and responsiveness  
+## 🔧 **Technical Skills**  
+- **Programming Languages:** C, C++, Java, Python (basic)  
+- **Web Development:** HTML, CSS, JavaScript, React.js, Expo  
+- **Database Management:** SQL  
+- **Version Control:** Git, GitHub  
+- **Other Tools:** Unix, VS Code  
+- **Soft Skills:** DSA, Problem-Solving, Time Management, Analytical Thinking, Communication  
 
 ---
 
-## 🎓 Education  
-**Bachelor of Engineering in Computer Science and Engineering**  
-*Government Engineering College Hassan, Hassan*  
-**Expected Graduation**: April 2026  
+## 💼 **Experience**  
+### **Full-Stack Developer | KrushiBook Project**  
+**GitHub:** [KrushiBook](https://Sharath196266.github.io/KrushiBook)  
+Developed an **agriculture-focused platform** to empower farmers with access to crop details, weather updates, and market trends.
 
-**Pre-University Course (PUC) in Science (PCMC)**  
-*Sree Vani PU College, Doddaballapur*  
-**Completed**: April 2024  
+**Key Achievements:**  
+- Built a **responsive, user-friendly interface** using HTML, CSS, and JavaScript.  
+- Integrated **real-time weather API** for live updates.  
+- Implemented a **database-driven content system** to provide farmers with educational resources.  
+- Enhanced accessibility for non-tech-savvy users, improving adoption in rural areas.  
 
----
-
-## 🗣 Languages  
-- 🇬🇧 English  
-- 🇮🇳 Telugu  
-- 🇮🇳 Hindi  
-- 🇮🇳 Kannada  
+**Tech Stack:** HTML, CSS, JavaScript, GitHub Pages  
 
 ---
 
-## 🏆 Achievements  
-- 🥇 **Winner** of **TechTrivia-24**, hosted by Government Engineering College Hassan in association with ISTE, November 2024  
-  ![TechTrivia Winner](https://media.licdn.com/dms/image/v2/D562DAQFYZ1tlLTTxcQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1736177422541?e=1736784000&v=beta&t=LPQDqLOpEcGlMzVyBpysKtrQVM0cOdI5Zu7LUaUoGP0)
-- 🚀 **Participant** in **Metadome Emerging Tech Hackathon**: [Credential](https://credsverse.com/credentials/aa4d0c39-efab-48bd-80a7-a5fadfd6d535)  
+## 🎓 **Education**  
+- **Bachelor of Engineering in Computer Science & Engineering**  
+  Government Engineering College, Hassan  
+  **Expected Graduation:** April 2026  
+
+- **Pre-University Course (PCMC)**  
+  Sree Vani PU College, Doddaballapur  
+  **Completed:** April 2024  
 
 ---
 
-## 👋 About Me  
-
-### **Passionate Problem Solver**  
-I thrive on challenges and create innovative solutions to address them.
-
-### **Aspiring Engineer**  
-Currently pursuing a **BE in Computer Science and Engineering**, with a continuous drive for growth and skill enhancement.
-
-### **Public Speaker & Tech Enthusiast**  
-I enjoy sharing my knowledge with others and staying updated with the latest in technology trends.
-
-### **Lifelong Learner**  
-My curiosity pushes me to explore new concepts, code creative solutions, and develop impactful applications for web and mobile.
-
-### **Beyond Tech**  
-Outside of coding, I enjoy watching movies, staying updated with tech news, and writing creative stories.
+## 🏆 **Achievements**  
+- **Winner:** **TechTrivia-24**, hosted by Government Engineering College Hassan in association with ISTE (November 2024)  
+- **Participant:** **Metadome Emerging Tech Hackathon**  
 
 ---
 
-## 🚀 Let's Collaborate  
-Explore my repositories, contribute to exciting projects, or reach out to discuss ideas, innovation, or tech!
+## 🧩 **Projects**  
+### **1. KrushiBook (Web App)**  
+- Developed a **web-based platform** to bridge the gap between farmers and modern agricultural practices.  
+- Utilized **responsive design principles** for cross-device compatibility.  
+- Integrated **JavaScript-based dynamic content** to provide real-time data.  
+
+### **2. Portfolio Website (In Progress)**  
+- Building a personal portfolio to showcase projects, skills, and achievements using **React.js** and **GitHub Pages**.  
 
 ---
 
-## 📧 Reach me at:  
-[sharathchinnu.hn@gmail.com](mailto:sharathchinnu.hn@gmail.com)
+## 🗣 **Languages**  
+- **English** – Fluent  
+- **Kannada** – Native  
+- **Telugu** – Proficient  
+- **Hindi** – Conversational  
+
+---
+
+## 🚀 **Let's Connect**  
+- 📧 **Email:** sharathchinnu.hn@gmail.com  
+- 💻 **GitHub:** [Sharath196266](https://github.com/Sharath196266)  
+- 🔗 **LinkedIn:** [Sharath H N](https://www.linkedin.com/in/sharath7hn)
