@@ -90,4 +90,4 @@ Explore my repositories, contribute to exciting projects, or reach out to discus
 ---
 
 ## 📧 Reach me at:  
-[sharath7hn@gmail.com](mailto:sharath7hn@gmail.com)
+[sharathchinnu.hn@gmail.com](mailto:sharathchinnu.hn@gmail.com)
