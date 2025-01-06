@@ -56,10 +56,7 @@ Developed an **agriculture-focused platform** to empower farmers with access to 
 ### **1. KrushiBook (Web App)**  
 - Developed a **web-based platform** to bridge the gap between farmers and modern agricultural practices.  
 - Utilized **responsive design principles** for cross-device compatibility.  
-- Integrated **JavaScript-based dynamic content** to provide real-time data.  
-
-### **2. Portfolio Website (In Progress)**  
-- Building a personal portfolio to showcase projects, skills, and achievements using **React.js** and **GitHub Pages**.  
+- Integrated **JavaScript-based dynamic content** to provide real-time data.    
 
 ---
 
