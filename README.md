@@ -1,4 +1,4 @@
-# ![Banner](https://media.licdn.com/dms/image/v2/D5616AQGxDPluGocHWA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1736174857503?e=1741824000&v=beta&t=YPRUyrjo75UBbTLeftjgWz1cc37hjxbWvUTPKrvaKC8)  
+# ![Banner](https://path-to-your-image-url)  
 **Sharath H N**  
 
 **Contact**:  
@@ -60,6 +60,7 @@ I am a passionate and knowledgeable **Computer Science and Engineering** student
 
 ## 🏆 Achievements  
 - 🥇 **Winner** of **TechTrivia-24**, hosted by Government Engineering College Hassan in association with ISTE, November 2024  
+  ![TechTrivia Winner](https://media.licdn.com/dms/image/v2/D562DAQFYZ1tlLTTxcQ/profile-treasury-image-shrink_160_160/profile-treasury-image-shrink_160_160/0/1736177422541?e=1736784000&v=beta&t=LPQDqLOpEcGlMzVyBpysKtrQVM0cOdI5Zu7LUaUoGP0)
 - 🚀 **Participant** in **Metadome Emerging Tech Hackathon**: [Credential](https://credsverse.com/credentials/aa4d0c39-efab-48bd-80a7-a5fadfd6d535)  
 
 ---
