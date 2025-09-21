@@ -1,9 +1,4 @@
-<!-- PROJECT BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sharath7hn)
-[![GitHub](https://img.shields.io/badge/GitHub-@Sharath196266-black?logo=github)]
-[![Email](https://img.shields.io/badge/Email-sharath7hn@gmail.com-orange?logo=gmail)]
 
----
 
 # 👋 Hello, I'm Sharath H N  
 Final-year Computer Science & Engineering student passionate about **Automotive Software**, **AI**, **Full-Stack Development**, and **Virtual Environments**.  
