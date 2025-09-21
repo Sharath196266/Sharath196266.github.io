@@ -59,7 +59,7 @@ A **community-driven platform for farmers** to share resources, knowledge, and c
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sharath7hn)  
 - 🐙 [GitHub](https://github.com/Sharath196266)  
-- ✉️ sharath7hn@gmail.com  
+- ✉️ sharathchinnu.hn@gmail.com  
 
 ---
 ⭐️ *Always excited to collaborate on projects in **Automotive Software, Robotics, AI, and Full-Stack Development*** 🚀
