@@ -1,74 +1,70 @@
-# Sharath H N  
+# 👋 Hi, I'm Sharath H N  
 
-📞 **+91 7204022677** | ✉️ **sharathchinnu.hn@gmail.com**  
-🌐 **Doddaballapur, India** | 💻 **[GitHub](https://github.com/Sharath196266)** | 🔗 **[LinkedIn](https://www.linkedin.com/in/sharath7hn)**  
-
----
-
-## 👨‍💻 **About Me**  
-Aspiring **Software Developer** with a passion for building scalable, user-centric applications. Skilled in **full-stack web development**, **problem-solving**, and **collaborative teamwork**. I thrive in fast-paced environments and constantly seek opportunities to learn, innovate, and contribute to impactful projects.
+🎓 Final-year **Computer Science & Engineering** student at Government Engineering College, Hassan.  
+💻 Aspiring **Software Developer** with interests in **Automotive Software, Robotics, AI, and Full-Stack Development**.  
+🚀 Skilled in building impactful projects ranging from **ADAS validation environments** to **agriculture and sustainability platforms**.  
 
 ---
 
-## 🔧 **Technical Skills**  
-- **Programming Languages:** C, C++, Java, Python (basic)  
-- **Web Development:** HTML, CSS, JavaScript, React.js, Expo  
-- **Database Management:** SQL  
-- **Version Control:** Git, GitHub  
-- **Other Tools:** Unix, VS Code  
-- **Soft Skills:** DSA, Problem-Solving, Time Management, Analytical Thinking, Communication  
+## 🔹 Experience  
+
+### 🏎️ Software Engineering Intern — Jaguar Land Rover India (JLR TBSI)  
+**Aug 2025 – Present**  
+- Contributed to the **Validation & Testing team** by creating a **MetaHuman-based virtual environment in Unreal Engine** to test **DMS** and **ADAS** features.  
+- Designed **C++ modules** and rigged driver action expressions using **Control Rig, Blender, and Sequencer** for lifelike driver behaviors.  
+- Automated **MetaHuman asset setup** and built a **UDP communication system (C++/Python)** for real-time input synchronization.  
+- Optimized **MetaHuman performance and simulation workflows**, improving **scalability, reliability, and efficiency** in ADAS testing.  
 
 ---
 
-## 💼 **Experience**  
-### **Full-Stack Developer | KrushiBook Project**  
-**GitHub:** [KrushiBook](https://Sharath196266.github.io/KrushiBook)  
-Developed an **agriculture-focused platform** to empower farmers with access to crop details, weather updates, and market trends.
+## 🔹 Projects  
 
-**Key Achievements:**  
-- Built a **responsive, user-friendly interface** using HTML, CSS, and JavaScript.  
-- Integrated **real-time weather API** for live updates.  
-- Implemented a **database-driven content system** to provide farmers with educational resources.  
-- Enhanced accessibility for non-tech-savvy users, improving adoption in rural areas.  
+### 🌾 [KrushiBook](https://Sharath196266.GitHub.io/KrushiBook)  
+A **community-driven platform for farmers** to share resources, knowledge, and connect with markets.  
+- Built with **React Native, Node.js, PostgreSQL, Supabase, Expo**.  
+- Features: Social posts, leftover sharing, tool rentals, nearby agro store discovery, **real-time market price tracking**, weather forecasts, and government scheme updates.  
+- Ensured **secure login, efficient post fetching from Node.js backend**, and privacy-first design.  
 
-**Tech Stack:** HTML, CSS, JavaScript, GitHub Pages  
+### ♻️ AI-Powered Waste Management & Crafts Marketplace  
+- AI system to identify waste items (image/text), suggest **reuse/disposal methods**, and link to a **marketplace for recycled crafts**.  
+- Integrated **image recognition + recommendation engine**.  
+- Developed with **React, Python backend, AI APIs, Supabase DB**.  
 
----
-
-## 🎓 **Education**  
-- **Bachelor of Engineering in Computer Science & Engineering**  
-  Government Engineering College, Hassan  
-  **Expected Graduation:** April 2026  
-
-- **Pre-University Course (PCMC)**  
-  Sree Vani PU College, Doddaballapur  
-  **Completed:** April 2024  
+### 🚗 WayWalker — Autonomous Vehicle Prototype  
+- An **AI-powered autonomous vehicle** (35x25cm) using **Raspberry Pi 3 B+**, wide-angle cameras, ultrasonic sensors, custom chassis, and LiPo battery.  
+- Real-time obstacle detection + GPS navigation for Indian roads.  
+- Designed custom wheels, motor control, and optimized runtime for **3+ hours**.  
 
 ---
 
-## 🏆 **Achievements**  
-- **Winner:** **TechTrivia-24**, hosted by Government Engineering College Hassan in association with ISTE (November 2024)  
-- **Participant:** **Metadome Emerging Tech Hackathon**  
+## 🔹 Skills  
+
+- **Languages**: C, C++, Python, Java, JavaScript, HTML, CSS  
+- **Frameworks & Libraries**: React, Expo, NumPy, Matplotlib  
+- **Tools**: Git/GitHub, Unreal Engine (Blueprints, C++, Control Rig, Sequencer), Blender, MATLAB, Anaconda, VS Code, Eclipse  
+- **Databases**: MySQL, PostgreSQL, Supabase  
+- **Coursework**: Data Structures, OS, DBMS, Computer Networks, Cloud Computing  
+- **Certifications**: MATLAB OnRamp, Python Fundamentals, Infosys Springboard – Network Topologies  
 
 ---
 
-## 🧩 **Projects**  
-### **1. KrushiBook (Web App)**  
-- Developed a **web-based platform** to bridge the gap between farmers and modern agricultural practices.  
-- Utilized **responsive design principles** for cross-device compatibility.  
-- Integrated **JavaScript-based dynamic content** to provide real-time data.    
+## 🔹 Leadership & Contributions  
+
+- **Session Handler & Secretary, GLUE (GECH Linux Users & Enthusiasts) & COMPASS**  
+  - Conducted technical sessions on Linux, programming tools, and open-source.  
+  - Organized hackathons, workshops, and department events to **promote open-source culture**.  
+
+- **Hackathons & Events**  
+  - Core organizer of **Code4Change Hackathon 2025** at GECH with ₹30,000 prize pool.  
+  - Developed websites, technical content, and event structure.  
 
 ---
 
-## 🗣 **Languages**  
-- **English** – Fluent  
-- **Kannada** – Native  
-- **Telugu** – Proficient  
-- **Hindi** – Conversational  
+## 📫 Connect with Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sharath7hn)  
+- 🐙 [GitHub](https://github.com/Sharath196266)  
+- ✉️ sharath7hn@gmail.com  
 
 ---
-
-## 🚀 **Let's Connect**  
-- 📧 **Email:** sharathchinnu.hn@gmail.com  
-- 💻 **GitHub:** [Sharath196266](https://github.com/Sharath196266)  
-- 🔗 **LinkedIn:** [Sharath H N](https://www.linkedin.com/in/sharath7hn)
+⭐️ *Always excited to collaborate on projects in **Automotive Software, Robotics, AI, and Full-Stack Development*** 🚀
