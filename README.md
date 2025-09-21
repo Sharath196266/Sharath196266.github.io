@@ -28,12 +28,7 @@ A **community-driven platform for farmers** to share resources, knowledge, and c
 ### ♻️ AI-Powered Waste Management & Crafts Marketplace  
 - AI system to identify waste items (image/text), suggest **reuse/disposal methods**, and link to a **marketplace for recycled crafts**.  
 - Integrated **image recognition + recommendation engine**.  
-- Developed with **React, Python backend, AI APIs, Supabase DB**.  
-
-### 🚗 WayWalker — Autonomous Vehicle Prototype  
-- An **AI-powered autonomous vehicle** (35x25cm) using **Raspberry Pi 3 B+**, wide-angle cameras, ultrasonic sensors, custom chassis, and LiPo battery.  
-- Real-time obstacle detection + GPS navigation for Indian roads.  
-- Designed custom wheels, motor control, and optimized runtime for **3+ hours**.  
+- Developed with **React, Python backend, AI APIs, Supabase DB**.   
 
 ---
 
