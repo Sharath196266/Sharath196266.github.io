@@ -34,9 +34,9 @@ A **community-driven platform for farmers** to share resources, knowledge, and c
 
 ## 🔹 Skills  
 
-- **Languages**: C, C++, Python, Java, JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: React, Expo, NumPy, Matplotlib  
-- **Tools**: Git/GitHub, Unreal Engine (Blueprints, C++, Control Rig, Sequencer), Blender, MATLAB, Anaconda, VS Code, Eclipse  
+- **Languages**: C, C++, Python, Java, JavaScript, HTML, CSS 
+- **Frameworks & Libraries**: React, Expo, NumPy, Expo, Matplotlib
+- **Tools**: Git/GitHub,  MATLAB, Unreal Engine (Blueprints, C++, Control Rig, Sequencer), Blender, Anaconda, VS Code, Eclipse, Jenkins, Azure
 - **Databases**: MySQL, PostgreSQL, Supabase  
 - **Coursework**: Data Structures, OS, DBMS, Computer Networks, Cloud Computing  
 - **Certifications**: MATLAB OnRamp, Python Fundamentals, Infosys Springboard – Network Topologies  
