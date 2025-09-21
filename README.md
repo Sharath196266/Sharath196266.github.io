@@ -1,58 +1,65 @@
+# 👋 Hi, I'm Sharath H N  
 
-
-# 👋 Hello, I'm Sharath H N  
-Final-year Computer Science & Engineering student passionate about **Automotive Software**, **AI**, **Full-Stack Development**, and **Virtual Environments**.  
-
----
-
-## 🛠 Work & Skills  
-
-**Software Engineering Intern** — *Jaguar Land Rover India (JLR TBSI)*  
-*Aug 2025 – Present*  
-- Building a MetaHuman-based virtual environment in Unreal Engine to test **Driver Monitoring Systems (DMS)** and **Advanced Driver Assistance Systems (ADAS)** systems.  
-- Designed C++ modules, rigged driver action expressions with Control Rig, Blender, and Sequencer.  
-- Automated MetaHuman asset setup and implemented a UDP communication system using Python & C++ for real-time behavior synchronization.  
-- Focused on performance optimization and scalability — improved simulation workflow and reliability in test environments.
+🎓 Final-year **Computer Science & Engineering** student at Government Engineering College, Hassan.  
+💻 Aspiring **Software Developer** with interests in **Automotive Software, Robotics, AI, and Full-Stack Development**.  
+🚀 Skilled in building impactful projects ranging from **ADAS validation environments** to **agriculture and sustainability platforms**.  
 
 ---
 
-## 🚀 Featured Projects  
+## 🔹 Experience  
 
-**KrushiBook**  
-A cross-platform mobile/web app for farmers bringing together social media, e-commerce, and agricultural tools.  
-- React Native + Expo frontend, Node.js + Supabase/PostgreSQL backend.  
-- Secure authentication, efficient post-fetching, marketplace for equipment & produce.  
-- Real-time updates: weather, commodity prices, and chatbot for agriculture queries.  
-
-**Automated Content Generator**  
-Tool to quickly generate posters, brochures, and marketing materials using AI.  
-- Custom templates, live preview, customizable image/text, easy export and sharing.  
+### 🏎️ Software Engineering Intern — Jaguar Land Rover India (JLR TBSI)  
+**Aug 2025 – Present**  
+- Contributed to the **Validation & Testing team** by creating a **MetaHuman-based virtual environment in Unreal Engine** to test **DMS** and **ADAS** features.  
+- Designed **C++ modules** and rigged driver action expressions using **Control Rig, Blender, and Sequencer** for lifelike driver behaviors.  
+- Automated **MetaHuman asset setup** and built a **UDP communication system (C++/Python)** for real-time input synchronization.  
+- Optimized **MetaHuman performance and simulation workflows**, improving **scalability, reliability, and efficiency** in ADAS testing.  
 
 ---
 
-## 🔧 Tech Stack  
+## 🔹 Projects  
 
-| Languages        | Tools / Frameworks                                 | Databases            |
-|------------------|----------------------------------------------------|-----------------------|
-| C, C++, Python, JavaScript, Java | Unreal Engine, React / React Native, Control Rig, Sequencer, Blender, Node.js | MySQL, PostgreSQL, Supabase |
+### 🌾 [KrushiBook](https://Sharath196266.GitHub.io/KrushiBook)  
+A **community-driven platform for farmers** to share resources, knowledge, and connect with markets.  
+- Built with **React Native, Node.js, PostgreSQL, Supabase, Expo**.  
+- Features: Social posts, leftover sharing, tool rentals, nearby agro store discovery, **real-time market price tracking**, weather forecasts, and government scheme updates.  
+- Ensured **secure login, efficient post fetching from Node.js backend**, and privacy-first design.  
+
+### ♻️ AI-Powered Waste Management & Crafts Marketplace  
+- AI system to identify waste items (image/text), suggest **reuse/disposal methods**, and link to a **marketplace for recycled crafts**.  
+- Integrated **image recognition + recommendation engine**.  
+- Developed with **React, Python backend, AI APIs, Supabase DB**.  
+
+--
+
+## 🔹 Skills  
+
+- **Languages**: C, C++, Python, Java, JavaScript, HTML, CSS  
+- **Frameworks & Libraries**: React, Expo, NumPy, Matplotlib  
+- **Tools**: Git/GitHub, Unreal Engine (Blueprints, C++, Control Rig, Sequencer), Blender, MATLAB, Anaconda, VS Code, Eclipse  
+- **Databases**: MySQL, PostgreSQL, Supabase  
+- **Coursework**: Data Structures, OS, DBMS, Computer Networks, Cloud Computing  
+- **Certifications**: MATLAB OnRamp, Python Fundamentals, Infosys Springboard – Network Topologies  
 
 ---
 
-## 🎯 Why It Matters  
+## 🔹 Leadership & Contributions  
 
-- 🚗 Ensuring ADAS & DMS are validated safely with realistic simulations.  
-- 🧰 Automating time-consuming setup tasks and optimizing performance to speed up test cycles.  
-- 🔒 Taking care of security & privacy in login & data handling.  
-- 🌱 Building tools and platforms that help farmers with resources, connectivity, and real-time insights.
+- **Session Handler & Secretary, GLUE (GECH Linux Users & Enthusiasts) & COMPASS**  
+  - Conducted technical sessions on Linux, programming tools, and open-source.  
+  - Organized hackathons, workshops, and department events to **promote open-source culture**.  
 
----
-
-## 📫 Get in Touch  
-
-- ✉️ Email: sharath7hn@gmail.com  
-- 🌐 LinkedIn: linkedin.com/in/sharath7hn  
-- 📂 GitHub: github.com/Sharath196266  
+- **Hackathons & Events**  
+  - Core organizer of **Code4Change Hackathon 2025** at GECH with ₹30,000 prize pool.  
+  - Developed websites, technical content, and event structure.  
 
 ---
 
-**Thanks for stopping by — always open to collaborations or interesting conversations!**
+## 📫 Connect with Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sharath7hn)  
+- 🐙 [GitHub](https://github.com/Sharath196266)  
+- ✉️ sharathchinnu.hn@gmail.com  
+
+---
+⭐️ *Always excited to collaborate on projects in **Automotive Software, Robotics, AI, and Full-Stack Development*** 🚀
